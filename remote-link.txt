@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://census-flow-compute-blink.trycloudflare.com/vnc.html
+URL       : https://conf-hostels-magnet-sep.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-06 23:46:16
+Created   : 2026-06-07 10:18:12
 =======================================================
