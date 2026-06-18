@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://yourself-solar-tomato-grid.trycloudflare.com/vnc.html
+URL       : https://trio-policies-nor-baptist.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-17 22:19:44
+Created   : 2026-06-18 12:35:55
 =======================================================
