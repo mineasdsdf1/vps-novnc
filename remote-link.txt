@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lace-sorts-article-amsterdam.trycloudflare.com/vnc.html
+URL       : https://encourage-fresh-recall-drain.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-19 13:04:28
+Created   : 2026-06-19 20:29:23
 =======================================================
