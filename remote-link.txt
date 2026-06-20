@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://encourage-fresh-recall-drain.trycloudflare.com/vnc.html
+URL       : https://loading-syntax-humidity-convention.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-19 20:29:23
+Created   : 2026-06-20 10:22:49
 =======================================================
