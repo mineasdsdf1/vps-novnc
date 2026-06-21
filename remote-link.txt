@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://regarded-gale-detection-substance.trycloudflare.com/vnc.html
+URL       : https://amd-experiences-ssl-players.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-21 11:36:45
+Created   : 2026-06-21 20:22:03
 =======================================================
