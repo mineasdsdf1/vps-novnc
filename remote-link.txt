@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://certificates-story-friendship-clock.trycloudflare.com/vnc.html
+URL       : https://surgery-crowd-threatened-swap.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-02 08:18:55
+Created   : 2026-07-02 12:16:34
 =======================================================
