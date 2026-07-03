@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://costs-logs-purchases-holiday.trycloudflare.com/vnc.html
+URL       : https://joining-mpg-action-rochester.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-03 12:15:32
+Created   : 2026-07-03 16:42:54
 =======================================================
