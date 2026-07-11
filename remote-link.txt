@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://demonstrate-authentic-bean-targeted.trycloudflare.com/vnc.html
+URL       : https://warrior-hunter-linux-etc.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-11 16:03:03
+Created   : 2026-07-11 21:01:29
 =======================================================
